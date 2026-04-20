@@ -7,7 +7,7 @@
    - e.g. [256, 120, 4]
    -  256 samples per batch
    -  120 timesteps
-   -  4 variables (Temp, Pressure, Dew Point, Reltive Humidity
+   -  4 variables (Temprature, Pressure, Dew Point, Reltive Humidity)
 
 
 Notes:
